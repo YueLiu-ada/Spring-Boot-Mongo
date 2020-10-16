@@ -1,6 +1,7 @@
 package com.mindex.challenge;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.mindex.challenge.dao.CompensationRepository;
 import com.mindex.challenge.dao.EmployeeRepository;
 import com.mindex.challenge.data.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,9 +14,12 @@ import java.io.InputStream;
 @Component
 public class DataBootstrap {
     private static final String DATASTORE_LOCATION = "/static/employee_database.json";
-
+    private static final String DATASTORE_LOCATION_Com = "/static/compensation_database.json";
     @Autowired
     private EmployeeRepository employeeRepository;
+
+    @Autowired
+    private CompensationRepository compensationRepository;
 
     @Autowired
     private ObjectMapper objectMapper;
