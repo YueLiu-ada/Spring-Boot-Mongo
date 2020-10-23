@@ -1,0 +1,57 @@
+[
+ {
+  "employeeId": "16a596ae-edd3-4847-99fe-c4518e82c86f",
+  "salary": 1234,
+  "effectiveDate": "2020-03-02"
+ },
+ {
+  "employeeId": "c0c2293d-16bd-4603-8e08-638a9d18b22c",
+  "salary": 5566,
+  "effectiveDate": "2020-06-07"
+ },
+ {
+  "employeeId": "djfdkjksjksjdvdfsdscfd",
+  "salary": 1234,
+  "effectiveDate": "2020-04-05"
+ },
+ {
+  "employeeId": "3kdso-3dkslkdsdf-eskdlscdc",
+  "salary": 1234,
+  "effectiveDate": "2020-02-03"
+ },
+ {
+  "employeeId": "adjw-2ddfd-3vfdvf-4dvfvf-f6fbfdv",
+  "salary": 59999,
+  "effectiveDate": "2019-01-01"
+ },
+ {
+  "employeeId": "f358c31d-0ae2-4092-88e4-f286110b0c4d",
+  "salary": 59999,
+  "effectiveDate": "2019-01-01"
+ },
+ {
+  "employeeId": "f2c337f9-707f-48f8-a30a-28d8495594a1",
+  "salary": 59999,
+  "effectiveDate": "2019-01-01"
+ },
+ {
+  "employeeId": "2cb4470c-7f70-4865-ba6d-555b0cba13e1",
+  "salary": 1234,
+  "effectiveDate": "2020-02-02"
+ },
+ {
+  "employeeId": "ww22",
+  "salary": 1234,
+  "effectiveDate": "2020-02-03"
+ },
+ {
+  "employeeId": "dkladklsdkaldkfslsdalll22dx-ds-2222",
+  "salary": 999,
+  "effectiveDate": "2020-03-03"
+ },
+ {
+  "employeeId": "fbf16c2b-68c8-414f-9353-444e2b7b9746",
+  "salary": 59999,
+  "effectiveDate": "2019-01-01"
+ }
+]
